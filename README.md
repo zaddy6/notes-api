@@ -1,16 +1,16 @@
-#notes-api
+# notes-api
 
 Implementing Jwt Auth on Django REST API
 
-###Prerequisites
+### Prerequisites
 
 ` python -m pip install -r requirements.txt
 `
 
-###Running the application
+### Running the application
 `python manage.py runserver`
 
-###API Documentation
+### API Documentation
 http://127.0.0.1:8000/api/docs/
 
 
